@@ -1,0 +1,42 @@
+
+Student 1: Yasmin Ashraf Hassan Ghanem
+Student 2: Yasmin Abdullah Nasser Saeed Mahmoud Elgendi
+
+Q1:
+
+The size of the word embeddings 243 words embedded (vocab)
+
+
+Q2:
+
+Dimensions of the word embedding of "Spain" which is 300 meaning that it is a column vector
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Type Yes or No
+
+
+Q4:
+
+Type Yes or No. and the reason for your answer.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+    Yes
+
+
+Q6:
+
+    The plot takes the words and have the ones with same context appear closer together in a cluster
+
