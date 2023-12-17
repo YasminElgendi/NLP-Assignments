@@ -20,12 +20,13 @@ Predicted Similarity:
 
 Q3:
 
-Type Yes or No
+    Yes
 
 
 Q4:
 
-Type Yes or No. and the reason for your answer.
+    Yes. 
+    This is because it is near 1. and indeed Egypt and Cairo are similar words in meaning just as athens and Greece are similar
 
 
 Computed Accuracy:
